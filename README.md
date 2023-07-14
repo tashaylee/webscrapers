@@ -1,1 +1,2 @@
 # webscrapers
+This webscrapers repository uses the Scrapy framework to perform ad hoc web scraping tasks. As I grow the repository, i will organize the modules by the domain name the scripts scrape off of.
